@@ -7,6 +7,7 @@
 นายพงศพัศ อุณาศรี 643020627-4 sec3, PhongsaphatAunasri <br />
 <img src = https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/phongsaphat.jpg  width="300"><br />
 นางสาวอารีรักษ์ กลางอินทร์เดช 643021345-9 sec3, ArreerakKlangindet <br />
+<img src = https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/arreerak.jpg  width="300"><br />
 นายอภิรักษ์ คล่องแคล่ว 643020656-7 sec3, AphirakMatoom <br />
 <img src = https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/Aphirak.jpg width="300"><br />
 นางสาวณัฐฐาเกศร์ ศรีหพงษ์ไพบูลย์ 643020605-4 sec3,Natthaket <br />

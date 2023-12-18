@@ -13,4 +13,4 @@
 นางสาวณัฐฐาเกศร์ ศรีหพงษ์ไพบูลย์ 643020605-4 sec3,Natthaket <br />
 <img src = https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/411364346_1970902056636497_3510558841462366055_n.jpg width="300"><br />
 นางสาววีรญา แก้วกันต์ 643020644-4 sec3 ,Weerayaa <br />
-<img scr =https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/Weerayaa.jpg width="300"/>
+<img scr =https://github.com/PiyathidaChaiprasroet/G4_SoftwareEngineering_Sec3/blob/main/media/Weerayaa.jpg width="300">

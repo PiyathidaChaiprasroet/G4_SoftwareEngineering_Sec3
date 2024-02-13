@@ -43,6 +43,14 @@ services:
       PS_DOMAIN: localhost:8080
     networks:
       - prestashop_network
+    volumes:
+      - type: bind
+        source: ./ # local path to the module
+        target: /var/www/html/ 
+      - psdata:/var/www/html/
+      
 networks:
-    prestashop_network:
-
+  prestashop_network:
+volumes:
+  psdata:
+  dbdata:

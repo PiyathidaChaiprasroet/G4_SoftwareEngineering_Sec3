@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.2 on win32)" generated="20240131 19:50:41.065" rpa="false" schemaversion="4">
+<suite id="s1" name="TestCase4 01" source="D:\ปี3\SC313004 software en\TestCase4_01.robot">
+<test id="s1-t1" name="Test Emergency Contact Form" line="10">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20240131 19:50:41.299" level="INFO">Opening browser 'Chrome' to base url 'http://localhost:8080/th/'.</msg>
+<status status="PASS" starttime="20240131 19:50:41.298" endtime="20240131 19:50:43.252"/>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<arg>${DELAY}</arg>
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<status status="PASS" starttime="20240131 19:50:43.253" endtime="20240131 19:50:43.253"/>
+</kw>
+<status status="PASS" starttime="20240131 19:50:41.298" endtime="20240131 19:50:43.254"/>
+</test>
+<status status="PASS" starttime="20240131 19:50:41.067" endtime="20240131 19:50:43.256"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TestCase4 01">TestCase4 01</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

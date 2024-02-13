@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.2 on win32)" generated="20240131 19:59:17.542" rpa="false" schemaversion="4">
+<suite id="s1" name="TestCase4 02" source="D:\ปี3\SC313004 software en\TestCase4_02.robot">
+<test id="s1-t1" name="Test Emergency Contact Form" line="10">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20240131 19:59:17.750" level="INFO">Opening browser 'Chrome' to base url 'http://localhost:8080/th/'.</msg>
+<status status="PASS" starttime="20240131 19:59:17.750" endtime="20240131 19:59:19.795"/>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<arg>${DELAY}</arg>
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<status status="PASS" starttime="20240131 19:59:19.796" endtime="20240131 19:59:19.797"/>
+</kw>
+<kw name="Click Image" library="SeleniumLibrary">
+<arg>http://localhost:8080/1-home_default/hummingbird-printed-t-shirt.jpg</arg>
+<doc>Clicks an image identified by ``locator``.</doc>
+<msg timestamp="20240131 19:59:19.798" level="INFO">Clicking image 'http://localhost:8080/1-home_default/hummingbird-printed-t-shirt.jpg'.</msg>
+<status status="PASS" starttime="20240131 19:59:19.797" endtime="20240131 19:59:29.248"/>
+</kw>
+<status status="PASS" starttime="20240131 19:59:17.749" endtime="20240131 19:59:29.248"/>
+</test>
+<status status="PASS" starttime="20240131 19:59:17.543" endtime="20240131 19:59:29.250"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TestCase4 02">TestCase4 02</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
